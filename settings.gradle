@@ -1,0 +1,4 @@
+include  ':suspender-annotations', ':suspender', ':sample'
+
+
+rootProject.name = 'suspender-parent'
